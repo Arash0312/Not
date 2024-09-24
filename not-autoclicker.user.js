@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Not Pixel Autoclicker
+// @name         کانال سازنده: @AirdropBeFarsi
 // @namespace    Violentmonkey Scripts
 // @match        *://*notpx.app/*
 // @version      1.5
